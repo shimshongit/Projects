@@ -1,0 +1,6 @@
+c:\users\ezra\documents\visual studio 2017\Projects\Collatz\Collatz\bin\Debug\Collatz.exe.config
+c:\users\ezra\documents\visual studio 2017\Projects\Collatz\Collatz\bin\Debug\Collatz.exe
+c:\users\ezra\documents\visual studio 2017\Projects\Collatz\Collatz\bin\Debug\Collatz.pdb
+c:\users\ezra\documents\visual studio 2017\Projects\Collatz\Collatz\obj\Debug\Collatz.csprojResolveAssemblyReference.cache
+c:\users\ezra\documents\visual studio 2017\Projects\Collatz\Collatz\obj\Debug\Collatz.exe
+c:\users\ezra\documents\visual studio 2017\Projects\Collatz\Collatz\obj\Debug\Collatz.pdb

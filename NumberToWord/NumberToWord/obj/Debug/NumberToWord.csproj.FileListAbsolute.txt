@@ -1,0 +1,6 @@
+c:\users\ezra\documents\visual studio 2017\Projects\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csprojResolveAssemblyReference.cache
+c:\users\ezra\documents\visual studio 2017\Projects\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+c:\users\ezra\documents\visual studio 2017\Projects\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+c:\users\ezra\documents\visual studio 2017\Projects\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+c:\users\ezra\documents\visual studio 2017\Projects\NumberToWord\NumberToWord\obj\Debug\NumberToWord.exe
+c:\users\ezra\documents\visual studio 2017\Projects\NumberToWord\NumberToWord\obj\Debug\NumberToWord.pdb

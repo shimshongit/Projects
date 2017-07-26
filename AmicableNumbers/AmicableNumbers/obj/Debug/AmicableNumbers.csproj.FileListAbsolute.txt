@@ -1,0 +1,6 @@
+c:\users\ezra\documents\visual studio 2017\Projects\AmicableNumbers\AmicableNumbers\bin\Debug\AmicableNumbers.exe.config
+c:\users\ezra\documents\visual studio 2017\Projects\AmicableNumbers\AmicableNumbers\bin\Debug\AmicableNumbers.exe
+c:\users\ezra\documents\visual studio 2017\Projects\AmicableNumbers\AmicableNumbers\bin\Debug\AmicableNumbers.pdb
+c:\users\ezra\documents\visual studio 2017\Projects\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.csprojResolveAssemblyReference.cache
+c:\users\ezra\documents\visual studio 2017\Projects\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.exe
+c:\users\ezra\documents\visual studio 2017\Projects\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.pdb

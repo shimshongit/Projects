@@ -1,0 +1,6 @@
+c:\users\ezra\documents\visual studio 2017\Projects\finite\finite\bin\Debug\finite.exe.config
+c:\users\ezra\documents\visual studio 2017\Projects\finite\finite\bin\Debug\finite.exe
+c:\users\ezra\documents\visual studio 2017\Projects\finite\finite\bin\Debug\finite.pdb
+c:\users\ezra\documents\visual studio 2017\Projects\finite\finite\obj\Debug\finite.csprojResolveAssemblyReference.cache
+c:\users\ezra\documents\visual studio 2017\Projects\finite\finite\obj\Debug\finite.exe
+c:\users\ezra\documents\visual studio 2017\Projects\finite\finite\obj\Debug\finite.pdb

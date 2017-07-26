@@ -1,0 +1,6 @@
+c:\users\ezra\documents\visual studio 2017\Projects\HighestPalindrome\HighestPalindrome\bin\Debug\HighestPalindrome.exe.config
+c:\users\ezra\documents\visual studio 2017\Projects\HighestPalindrome\HighestPalindrome\bin\Debug\HighestPalindrome.exe
+c:\users\ezra\documents\visual studio 2017\Projects\HighestPalindrome\HighestPalindrome\bin\Debug\HighestPalindrome.pdb
+c:\users\ezra\documents\visual studio 2017\Projects\HighestPalindrome\HighestPalindrome\obj\Debug\HighestPalindrome.csprojResolveAssemblyReference.cache
+c:\users\ezra\documents\visual studio 2017\Projects\HighestPalindrome\HighestPalindrome\obj\Debug\HighestPalindrome.exe
+c:\users\ezra\documents\visual studio 2017\Projects\HighestPalindrome\HighestPalindrome\obj\Debug\HighestPalindrome.pdb
